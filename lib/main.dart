@@ -16,7 +16,7 @@ class _SleepSoundAppState extends State<SleepSoundApp> {
     'Rain': 0.5,
     'Wind': 0.5,
     'Forest': 0.5,
-    'Meditation': 0.5,
+    'Meditation': 0.6,
   };
   final Map<String, String> _soundFiles = {
     'Rain': 'rain.mp3',
